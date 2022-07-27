@@ -1,0 +1,25 @@
+.cov-first {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.452), rgba(0, 0, 0, 0.44)), url("images/cover/cover-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 690px;
+    background-position: center;
+
+}
+
+.cov-second {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.452), rgba(0, 0, 0, 0.44)), url("images/cover/cover-2.jpg");
+    background-size: cover;
+    min-height: 690px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.cov-third {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.452), rgba(0, 0, 0, 0.44)), url("images/cover/cover-3.jpg");
+    background-size: cover;
+    min-height: 690px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
