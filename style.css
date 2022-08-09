@@ -27,3 +27,10 @@
 .gray-text {
     color: #777777;
 }
+
+.feed-card {
+    background-image: url("images/comma.png");
+    background-repeat: no-repeat;
+    background-position: top left 50px;
+
+}
